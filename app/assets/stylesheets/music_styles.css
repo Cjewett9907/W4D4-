@@ -1,0 +1,17 @@
+body {
+
+        font-family: fantasy;
+        background-image: url(https://www.w3schools.com/w3images/fjords.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+          color: purple;
+
+}
+
+h1 {
+  width: 100%
+  margin: auto;
+  font-style: oblique;
+
+
+}
